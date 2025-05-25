@@ -52,7 +52,7 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to 
 
 ## 📄 Deliverables
 
-- ✅ Colab Notebook (`Task_5.ipynb`)
+- ✅ Jupyter Notebook (`Task_5.ipynb`)
 - ✅ Markdown Summary (`README.md`)
 
 ---
