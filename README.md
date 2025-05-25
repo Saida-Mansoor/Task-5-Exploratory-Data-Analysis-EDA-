@@ -4,20 +4,6 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to 
 
 ---
 
-## 📁 Project Structure
-
-📦 Titanic_EDA_Project
-├── Task_5.ipynb # Jupyter Notebook with full EDA
-├── Titanic_EDA_Report.pdf # Exported PDF report of findings
-├── README.md # Project overview (you are here)
-├── data/
-│ └── titanic.csv # Titanic dataset used
-└── images/
-└── boxplot_numerical.png # Sample visualizations
-
-
----
-
 ## 📌 Objective
 
 - Conduct in-depth EDA on the Titanic dataset.
@@ -67,7 +53,6 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to 
 ## 📄 Deliverables
 
 - ✅ Colab Notebook (`Task_5.ipynb`)
-- ✅ PDF Report (`Titanic_EDA_Report.pdf`)
 - ✅ Markdown Summary (`README.md`)
 
 ---
